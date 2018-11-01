@@ -10,4 +10,5 @@ public class SampleController {
         return "Greetings from Spring Boot!";
     }
 
+
 }
